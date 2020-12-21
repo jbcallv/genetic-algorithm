@@ -13,5 +13,6 @@ Concepts used were:
 # Installation
 <ol>
 <li>git clone https://github.com/jbcallv/GeneticAlgorithm.git</li>
-<li>python3 GeneticAlgorithm.py</li>
+  <li>cd GeneticAlgorithm</li>
+<li>python3 PhraseFinder.py</li>
 </ol>
