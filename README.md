@@ -1,5 +1,5 @@
 # GeneticAlgorithm
-Given a target phrase, this program finds uses a simple genetic algorithm
+Given a target phrase, this program uses a simple genetic algorithm
 to efficiently find the given phrase.
 
 # Biology
